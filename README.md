@@ -7,8 +7,5 @@ and another line, do it again, maybe next time I'm going to figure out how to me
 
 one last line to test the different branch for development
 
-<<<<<<< HEAD
-
-=======
 test pull request on github
->>>>>>> 550cb4603591361bba085966fc485657ea67e041
+
